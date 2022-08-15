@@ -2,6 +2,18 @@
 - Junior FullStack Developer
 - Studying at Instituto Federal de São Paulo (IFSP)
 - HTML & CSS, JavaScript, Java, C# and Python!
+<details close="true">
+  <summary>Skills</summary>
+  <img src="https://img.icons8.com/color/344/javascript--v1.png" width="40em">
+  <img src="https://img.icons8.com/offices/344/php-logo.png" width="40em">
+  <img src="https://img.icons8.com/color/344/mysql-logo.png" width="40em">
+  <img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" width="40em">
+  <img src="https://img.icons8.com/color/344/python--v1.png" width="40em">
+  <img src="https://img.icons8.com/color/344/c-sharp-logo.png" width="40em">
+  <img src="https://img.icons8.com/color/344/html-5--v1.png.png" width="40em">
+  <img src="https://img.icons8.com/color/344/css3.png" width="40em">
+  <img src="https://img.icons8.com/color/344/bootstrap.png" width="40em">
+</details>
 
 ## 🛠 - GitHub
 
@@ -28,20 +40,3 @@
   ![Snake animation](https://github.com/GustavoTrizotti/GustavoTrizotti/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-##
-
-<details close="true">
-  <summary><h2>📌 - Skills</h2></summary>
-  <ul>
-    <br>
-    <li>JavaScript</li>
-    <li>PHP</li>
-    <li>MYSql</li>
-    <li>Java</li>
-    <li>Python</li>
-    <li>C# (Unity)</li>
-    <li>HTML & CSS</li>
-    <li>Bootstrap & Bulma</li>
-  </ul>
-</details>
