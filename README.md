@@ -1,26 +1,22 @@
 ## 👋 Hello! I'm Gustavo Trizotti! 
 - Junior FullStack Developer
 - Studying at Instituto Federal de São Paulo (IFSP)
-- HTML & CSS, JavaScript, Java, C# and Python!
-<details close="true">
-  <summary>Skills</summary>
-  <img src="https://img.icons8.com/color/344/javascript--v1.png" width="40em">
-  <img src="https://img.icons8.com/offices/344/php-logo.png" width="40em">
-  <img src="https://img.icons8.com/color/344/mysql-logo.png" width="40em">
-  <img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" width="40em">
-  <img src="https://img.icons8.com/color/344/python--v1.png" width="40em">
-  <img src="https://img.icons8.com/color/344/c-sharp-logo.png" width="40em">
-  <img src="https://img.icons8.com/color/344/html-5--v1.png.png" width="40em">
-  <img src="https://img.icons8.com/color/344/css3.png" width="40em">
-  <img src="https://img.icons8.com/color/344/bootstrap.png" width="40em">
-</details>
 
 ## 🛠 - GitHub
 
+```javascript
+const trizotti = {
+  age: "18",
+  location: "Brazil | SP",
+  city: "São Carlos",
+  code: ['Java', 'Javascript', 'Python', 'C#'],
+}
+```
+
 <div align="center">
   <a href="https://github.com/GustavoTrizotti">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GustavoTrizotti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoTrizotti&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoTrizotti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoTrizotti&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div align="center">
