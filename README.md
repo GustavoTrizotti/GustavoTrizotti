@@ -1,10 +1,6 @@
-## 👋 Hello! I'm Gustavo Trizotti! 
-- Junior FullStack Developer
-- Studying at Instituto Federal de São Paulo (IFSP)
-
 ```javascript
 const trizotti = {
-  age: "18",
+  age: "17",
   location: "Brazil | SP",
   city: "São Carlos",
   code: ['Java', 'Javascript', 'Python', 'C#'],
