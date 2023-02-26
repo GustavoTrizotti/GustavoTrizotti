@@ -7,9 +7,9 @@ const trizotti = {
 }
 ```
 
-<div align="center" style="width: 100%"> 
+<div style="width: 100%"> 
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoTrizotti)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoTrizotti&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   <br>
   [![GitHub Streak](https://streak-stats.demolab.com/?user=GustavoTrizotti&theme=dark)](https://git.io/streak-stats)
   <br>
