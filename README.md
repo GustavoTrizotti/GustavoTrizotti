@@ -17,7 +17,8 @@ const trizotti = {
   
 <div align="center" style="width: 100%"> 
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=GustavoTrizotti1&theme=dracula)](https://git.io/streak-stats)
+  <br>
   ![Snake animation](https://github.com/GustavoTrizotti/GustavoTrizotti/blob/output/github-contribution-grid-snake.svg)
  
 </div>
