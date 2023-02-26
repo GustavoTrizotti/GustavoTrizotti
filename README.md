@@ -6,10 +6,9 @@ const trizotti = {
   code: ['Java', 'Javascript', 'Python', 'C#'],
 }
 ```
-<div stlyle="width: 100%">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoTrizotti&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-<div stlyle="width: 100%">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=GustavoTrizotti&theme=dark)](https://git.io/streak-stats)
+<div style="display: flex; flex-direction: row;" align="center"> 
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoTrizotti&theme=dark" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoTrizotti&theme=dark" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoTrizotti&layout=compact&theme=dark" height="150em"/>
 </div>
