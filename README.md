@@ -1,9 +1,14 @@
 ```javascript
 const trizotti = {
+  name: "Gustavo Trizotti",
   age: "17",
   location: "Brazil | SP",
   city: "São Carlos",
   code: ['Java', 'Javascript', 'Python', 'C#'],
+  skills: {
+    front: ['HTML, 'CSS', 'React'],
+    back: ['Java', 'Spring Boot', 'Python']
+  },
 }
 ```
 
