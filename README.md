@@ -11,8 +11,9 @@ public class Trizotti {
 }
 ```
 
-<div style="display: flex; flex-direction: row;" align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoTrizotti&layout=compact&theme=dark" width="40%"/>
+<div style="display: flex; flex-direction: row; flex: 1" align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoTrizotti&layout=compact&theme=dracula" width="280em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoTrizotti&show_icons=true&theme=dracula"  width="370em"/>
 </div>
 
 <div align="center">
