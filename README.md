@@ -1,21 +1,18 @@
-```javascript
-const trizotti = {
-  name: "Gustavo Trizotti",
-  age: "17",
-  location: "Brazil | SP",
-  city: "São Carlos",
-  code: ['Java', 'Javascript', 'Python', 'C#'],
-  skills: {
-    front: ['HTML, 'CSS', 'React'],
-    back: ['Java', 'Spring Boot', 'Python']
-  },
+```java
+public class Trizotti {
+  private String name = 'Gustavo Trizotti';
+  private Location location = new Location("Brazil", "SP");
+  private int age = 17;
+  private String[] langs = ['Java', 'Python', 'Javascript', 'C#'];
+  
+  public void motivation() {
+    System.out.println("Let's do it!");
+  }
 }
 ```
 
 <div style="display: flex; flex-direction: row;" align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoTrizotti&theme=dark" height="150em"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoTrizotti&theme=dark" height="150em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoTrizotti&layout=compact&theme=dark" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoTrizotti&layout=compact&theme=dark" width="40%"/>
 </div>
 
 <div align="center">
