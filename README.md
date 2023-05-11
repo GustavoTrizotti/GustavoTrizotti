@@ -1,3 +1,5 @@
+<img src="https://github.com/GustavoTrizotti/GustavoTrizotti/assets/91386758/562b7f7c-7c8f-44b0-be66-279be424960c" width="100%">
+
 ```java
 public class Trizotti {
   private String name = 'Gustavo Trizotti';
