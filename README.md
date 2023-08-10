@@ -8,7 +8,7 @@ public class Trizotti {
   private String[] langs = ['Java', 'Python', 'Javascript', 'C#'];
   
   public void motivation() {
-    System.out.println("Let's do it!");
+    System.out.println("Let's go!");
   }
 }
 ```
@@ -23,3 +23,5 @@ public class Trizotti {
   <a href="https://www.linkedin.com/in/gustavo-trizotti-83b05b268/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/GustavoTrizott1"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <div>
+
+![](./profile-3d-contrib/profile-green-animate.svg)
