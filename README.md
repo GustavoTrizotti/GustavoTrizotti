@@ -13,17 +13,21 @@ public class Trizotti {
 }
 ```
 
-<div style="display: flex; flex-direction: row; flex: 1" align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoTrizotti&layout=compact&theme=dracula&langs_count=8" width="280em"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoTrizotti&show_icons=true&theme=dracula"  width="425em"/>
-</div>
-
 <div align="center">
   <a href="https://www.instagram.com/gustavo.trizott1/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/gustavo-trizotti-83b05b268/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/GustavoTrizott1"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  
+<div>
+  
 <div>
 
-![Snake animation](https://github.com/GustavoTrizotti/GustavoTrizotti/blob/output/github-contribution-grid-snake.svg)
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoTrizotti&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoTrizotti&theme=github_dark)
+| :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GustavoTrizotti&theme=github_dark&utcOffset=8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoTrizotti&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GustavoTrizotti&theme=github_dark)
+| :-: | :-: | :-: |
+  
+</div>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
