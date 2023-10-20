@@ -4,8 +4,8 @@
 public class Trizotti {
   private String name = 'Gustavo Trizotti';
   private Location location = new Location("Brazil", "SP");
-  private int age = 17;
-  private String[] langs = ['Java', 'Python', 'Javascript', 'C#'];
+  private int age = 18;
+  private ArrayList<String> langs = ['Java', 'Python', 'Javascript', 'C#'];
   
   public void motivation() {
     System.out.println("Let's go!");
