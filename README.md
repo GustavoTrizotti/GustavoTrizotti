@@ -9,7 +9,7 @@ interface Programmer {
 const trizotti: Programmer = {
   name: "Gustavo Trizotti",
   age: 18,
-  stack: ['Typescript', 'NextJS', 'React', 'Java', 'Node']
+  stack: ['Typescript', 'NextJS', 'React', 'Java', 'Node.js'],
   technologies: ['React-Native', 'PostgreSQL', 'Git', 'Postman']
 };
 ```
