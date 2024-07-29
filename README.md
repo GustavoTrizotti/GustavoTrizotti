@@ -22,6 +22,6 @@ const trizotti: Programmer = {
 ### 📈 Status
 <hr>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoTrizotti&theme=material-palenight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoTrizotti&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoTrizotti&theme=material-palenight&hide_border=true" width="480px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoTrizotti&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" width="450px"/> 
 </div>
