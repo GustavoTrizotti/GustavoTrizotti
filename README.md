@@ -1,10 +1,8 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=%E2%80%8E+%E2%80%8E+Gustavo+Trizotti.">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=222222&vCenter=true&width=435&lines=%E2%80%8E+%E2%80%8E+Gustavo+Trizotti.">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=Gustavo+Trizotti.">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=222222&vCenter=true&width=435&lines=Gustavo+Trizotti.">
   <img src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
-
-<hr>
 <div>
   <img height="24" width="24" src="https://cdn.simpleicons.org/typescript/222/fff" /> &nbsp&nbsp
   <img height="24" width="24" src="https://cdn.simpleicons.org/nestjs/222/fff" /> &nbsp&nbsp
